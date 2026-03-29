@@ -1,3 +1,12 @@
+## Task 1 – Infographic
+
+In this task, I created a digital literacy infographic using Canva. The infographic includes important topics such as safe internet practices, useful digital tools, and email etiquette.
+
+I used a template and customized it by adding relevant points and visuals. This helped me understand how to present information in a clear and attractive way.
+
+One challenge I faced was arranging the content properly, but it was an interesting and creative experience. This task improved my understanding of digital literacy and design skills.
+
+
 ## Task 2 – Digital Portfolio
 
 In this task, I created and updated my professional profiles on GitHub and LinkedIn. These platforms are important for building a strong digital presence and showcasing skills.
