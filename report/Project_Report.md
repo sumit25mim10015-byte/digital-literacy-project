@@ -9,6 +9,15 @@ LinkedIn is a professional networking platform. I added my education details, in
 In the next four years, I plan to regularly update my profiles, add new projects, and improve my skills. These platforms will help me grow professionally and prepare for future job opportunities.
 
 
+## Task 3 – Platforms
+
+In this task, I explored coding and collaboration platforms. I used HackerRank to solve a beginner-level problem called "Solve Me First". This helped me understand basic problem-solving and how coding platforms work.
+
+I also created a Google Form quiz on digital literacy with five questions. The form included both multiple-choice and short-answer questions. I shared the form and viewed responses using Google Sheets.
+
+This task helped me understand how online platforms can be used for learning, practice, and collaboration. In the future, I will continue using coding platforms to improve my programming skills and Google tools for academic work.
+
+
 ## Task 4 – Email Etiquette
 
 In this task, I learned how to write professional emails and maintain proper online communication. I wrote two emails: one to a professor requesting an assignment extension and another to apply for an internship.
