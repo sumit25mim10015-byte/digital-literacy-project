@@ -34,3 +34,11 @@ In this task, I learned how to write professional emails and maintain proper onl
 I also created a checklist of do’s and don’ts for responsible social media use. This task helped me understand the importance of clear communication, proper tone, and digital responsibility.
 
 Poor digital communication can lead to misunderstandings and problems. For example, sending an email without a subject or proper greeting can appear unprofessional. This can be improved by following proper email etiquette.
+
+## Task 5 – Cybercrime Awareness
+
+In this task, I studied phishing as a common cybercrime. I learned how attackers trick users into sharing sensitive information through fake messages or websites.
+
+I also created a prevention checklist to help users stay safe online. This task made me more aware of online threats and the importance of digital security.
+
+I was surprised to learn how easily people can be targeted. After this task, I will be more careful while clicking links and sharing information online.
